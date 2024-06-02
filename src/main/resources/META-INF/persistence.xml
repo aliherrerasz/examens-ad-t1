@@ -1,0 +1,8 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.2">
+    <persistence-unit name="PU_LIBROS">
+        <class>ejercicio3.Autor</class>
+        <class>ejercicio3.Direccion</class>
+        <class>ejercicio3.Libreria</class>
+        <class>ejercicio3.Libro</class>
+    </persistence-unit>
+</persistence>
