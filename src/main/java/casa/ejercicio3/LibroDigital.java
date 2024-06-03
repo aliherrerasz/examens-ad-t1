@@ -1,4 +1,4 @@
-package ejercicio3;
+package casa.ejercicio3;
 
 public class LibroDigital extends Libro {
     private Formato formato;

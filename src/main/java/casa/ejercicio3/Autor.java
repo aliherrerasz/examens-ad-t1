@@ -1,4 +1,4 @@
-package ejercicio3;
+package casa.ejercicio3;
 
 import jakarta.persistence.*;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ejercicio2;
+package casa.ejercicio2;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package ejercicio3;
+package casa.ejercicio3;
 
 import java.util.List;
 

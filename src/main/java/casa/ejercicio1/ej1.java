@@ -1,4 +1,4 @@
-package ejercicio1;
+package casa.ejercicio1;
 
 import java.io.*;
 import java.util.Scanner;
