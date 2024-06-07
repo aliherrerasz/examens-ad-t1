@@ -12,6 +12,8 @@ repositories {
 dependencies {
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
+    implementation("ch.qos.logback:logback-classic:1.2.11")
+    implementation("org.mongodb:mongodb-driver-sync:4.11.0")
     implementation("jakarta.validation:jakarta.validation-api:3.0.2")
     implementation("org.hibernate:hibernate-validator:8.0.1.Final")
     implementation("org.hibernate.validator:hibernate-validator-annotation-processor:8.0.1.Final")
